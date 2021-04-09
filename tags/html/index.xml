@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on shrimp</title>
+    <link>https://shrimptqm.github.io/tags/html/</link>
+    <description>Recent content in HTML on shrimp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shrimptqm.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://shrimptqm.github.io/test/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrimptqm.github.io/test/</guid>
+      <description>test my blog-20210407 </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://shrimptqm.github.io/post/first/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrimptqm.github.io/post/first/</guid>
+      <description>my first blog-20210407</description>
+    </item>
+    
+  </channel>
+</rss>

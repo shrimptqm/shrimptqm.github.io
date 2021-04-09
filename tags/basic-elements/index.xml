@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic Elements on shrimp</title>
+    <link>https://shrimptqm.github.io/tags/basic-elements/</link>
+    <description>Recent content in Basic Elements on shrimp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://shrimptqm.github.io/tags/basic-elements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://shrimptqm.github.io/post/first/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrimptqm.github.io/post/first/</guid>
+      <description>my first blog-20210407</description>
+    </item>
+    
+  </channel>
+</rss>

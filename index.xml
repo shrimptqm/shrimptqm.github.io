@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shrimp</title>
+    <link>https://shrimptqm.github.io/</link>
+    <description>Recent content on shrimp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 08 Apr 2021 23:21:14 +0800</lastBuildDate><atom:link href="https://shrimptqm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://shrimptqm.github.io/about/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrimptqm.github.io/about/</guid>
+      <description>hi,I&amp;rsquo;m TQM. Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>6th</title>
+      <link>https://shrimptqm.github.io/post/6th/</link>
+      <pubDate>Thu, 08 Apr 2021 23:21:14 +0800</pubDate>
+      
+      <guid>https://shrimptqm.github.io/post/6th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5th</title>
+      <link>https://shrimptqm.github.io/post/5th/</link>
+      <pubDate>Thu, 08 Apr 2021 23:20:47 +0800</pubDate>
+      
+      <guid>https://shrimptqm.github.io/post/5th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4th</title>
+      <link>https://shrimptqm.github.io/post/4th/</link>
+      <pubDate>Thu, 08 Apr 2021 23:20:02 +0800</pubDate>
+      
+      <guid>https://shrimptqm.github.io/post/4th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3th</title>
+      <link>https://shrimptqm.github.io/post/3th/</link>
+      <pubDate>Thu, 08 Apr 2021 23:18:53 +0800</pubDate>
+      
+      <guid>https://shrimptqm.github.io/post/3th/</guid>
+      <description>3th blog</description>
+    </item>
+    
+    <item>
+      <title>2nd</title>
+      <link>https://shrimptqm.github.io/post/2nd/</link>
+      <pubDate>Thu, 08 Apr 2021 23:17:30 +0800</pubDate>
+      
+      <guid>https://shrimptqm.github.io/post/2nd/</guid>
+      <description>/第2篇/</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://shrimptqm.github.io/test/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrimptqm.github.io/test/</guid>
+      <description>test my blog-20210407 </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://shrimptqm.github.io/post/first/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrimptqm.github.io/post/first/</guid>
+      <description>my first blog-20210407</description>
+    </item>
+    
+  </channel>
+</rss>
